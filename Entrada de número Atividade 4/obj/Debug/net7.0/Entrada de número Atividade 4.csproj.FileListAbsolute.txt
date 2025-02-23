@@ -1,0 +1,15 @@
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Entrada de número Atividade 4\bin\Debug\net7.0\Entrada de número Atividade 4.exe
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Entrada de número Atividade 4\bin\Debug\net7.0\Entrada de número Atividade 4.deps.json
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Entrada de número Atividade 4\bin\Debug\net7.0\Entrada de número Atividade 4.runtimeconfig.json
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Entrada de número Atividade 4\bin\Debug\net7.0\Entrada de número Atividade 4.dll
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Entrada de número Atividade 4\bin\Debug\net7.0\Entrada de número Atividade 4.pdb
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Entrada de número Atividade 4\obj\Debug\net7.0\Entrada de número Atividade 4.csproj.AssemblyReference.cache
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Entrada de número Atividade 4\obj\Debug\net7.0\Entrada de número Atividade 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Entrada de número Atividade 4\obj\Debug\net7.0\Entrada de número Atividade 4.AssemblyInfoInputs.cache
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Entrada de número Atividade 4\obj\Debug\net7.0\Entrada de número Atividade 4.AssemblyInfo.cs
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Entrada de número Atividade 4\obj\Debug\net7.0\Entrada de número Atividade 4.csproj.CoreCompileInputs.cache
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Entrada de número Atividade 4\obj\Debug\net7.0\Entrada de número Atividade 4.dll
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Entrada de número Atividade 4\obj\Debug\net7.0\refint\Entrada de número Atividade 4.dll
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Entrada de número Atividade 4\obj\Debug\net7.0\Entrada de número Atividade 4.pdb
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Entrada de número Atividade 4\obj\Debug\net7.0\Entrada de número Atividade 4.genruntimeconfig.cache
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Entrada de número Atividade 4\obj\Debug\net7.0\ref\Entrada de número Atividade 4.dll

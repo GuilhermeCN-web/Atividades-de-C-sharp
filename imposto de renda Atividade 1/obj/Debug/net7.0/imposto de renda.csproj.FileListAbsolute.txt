@@ -1,0 +1,16 @@
+D:\Fatec\Desenvolvimento de Sistemas\imposto de renda\obj\Debug\net7.0\imposto de renda.csproj.AssemblyReference.cache
+D:\Fatec\Desenvolvimento de Sistemas\imposto de renda\obj\Debug\net7.0\imposto de renda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\Desenvolvimento de Sistemas\imposto de renda\obj\Debug\net7.0\imposto de renda.AssemblyInfoInputs.cache
+D:\Fatec\Desenvolvimento de Sistemas\imposto de renda\obj\Debug\net7.0\imposto de renda.AssemblyInfo.cs
+D:\Fatec\Desenvolvimento de Sistemas\imposto de renda\obj\Debug\net7.0\imposto de renda.csproj.CoreCompileInputs.cache
+D:\Fatec\Desenvolvimento de Sistemas\imposto de renda\bin\Debug\net7.0\imposto de renda.exe
+D:\Fatec\Desenvolvimento de Sistemas\imposto de renda\bin\Debug\net7.0\imposto de renda.deps.json
+D:\Fatec\Desenvolvimento de Sistemas\imposto de renda\bin\Debug\net7.0\imposto de renda.runtimeconfig.json
+D:\Fatec\Desenvolvimento de Sistemas\imposto de renda\bin\Debug\net7.0\imposto de renda.dll
+D:\Fatec\Desenvolvimento de Sistemas\imposto de renda\bin\Debug\net7.0\imposto de renda.pdb
+D:\Fatec\Desenvolvimento de Sistemas\imposto de renda\obj\Debug\net7.0\imposto de renda.dll
+D:\Fatec\Desenvolvimento de Sistemas\imposto de renda\obj\Debug\net7.0\refint\imposto de renda.dll
+D:\Fatec\Desenvolvimento de Sistemas\imposto de renda\obj\Debug\net7.0\imposto de renda.pdb
+D:\Fatec\Desenvolvimento de Sistemas\imposto de renda\obj\Debug\net7.0\imposto de renda.genruntimeconfig.cache
+D:\Fatec\Desenvolvimento de Sistemas\imposto de renda\obj\Debug\net7.0\ref\imposto de renda.dll
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\imposto de renda Atividade 1\obj\Debug\net7.0\imposto de renda.pdb

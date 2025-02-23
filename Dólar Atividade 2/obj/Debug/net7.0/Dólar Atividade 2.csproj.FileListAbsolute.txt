@@ -1,0 +1,15 @@
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Dólar Atividade 2\bin\Debug\net7.0\Dólar Atividade 2.exe
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Dólar Atividade 2\bin\Debug\net7.0\Dólar Atividade 2.deps.json
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Dólar Atividade 2\bin\Debug\net7.0\Dólar Atividade 2.runtimeconfig.json
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Dólar Atividade 2\bin\Debug\net7.0\Dólar Atividade 2.dll
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Dólar Atividade 2\bin\Debug\net7.0\Dólar Atividade 2.pdb
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Dólar Atividade 2\obj\Debug\net7.0\Dólar Atividade 2.csproj.AssemblyReference.cache
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Dólar Atividade 2\obj\Debug\net7.0\Dólar Atividade 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Dólar Atividade 2\obj\Debug\net7.0\Dólar Atividade 2.AssemblyInfoInputs.cache
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Dólar Atividade 2\obj\Debug\net7.0\Dólar Atividade 2.AssemblyInfo.cs
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Dólar Atividade 2\obj\Debug\net7.0\Dólar Atividade 2.csproj.CoreCompileInputs.cache
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Dólar Atividade 2\obj\Debug\net7.0\Dólar Atividade 2.dll
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Dólar Atividade 2\obj\Debug\net7.0\refint\Dólar Atividade 2.dll
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Dólar Atividade 2\obj\Debug\net7.0\Dólar Atividade 2.pdb
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Dólar Atividade 2\obj\Debug\net7.0\Dólar Atividade 2.genruntimeconfig.cache
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Dólar Atividade 2\obj\Debug\net7.0\ref\Dólar Atividade 2.dll

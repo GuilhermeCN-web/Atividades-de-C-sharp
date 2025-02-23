@@ -1,0 +1,15 @@
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Sequência de números Atividade 3\obj\Debug\net7.0\Sequência de números Atividade 3.csproj.AssemblyReference.cache
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Sequência de números Atividade 3\obj\Debug\net7.0\Sequência de números Atividade 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Sequência de números Atividade 3\obj\Debug\net7.0\Sequência de números Atividade 3.AssemblyInfoInputs.cache
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Sequência de números Atividade 3\obj\Debug\net7.0\Sequência de números Atividade 3.AssemblyInfo.cs
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Sequência de números Atividade 3\obj\Debug\net7.0\Sequência de números Atividade 3.csproj.CoreCompileInputs.cache
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Sequência de números Atividade 3\bin\Debug\net7.0\Sequência de números Atividade 3.exe
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Sequência de números Atividade 3\bin\Debug\net7.0\Sequência de números Atividade 3.deps.json
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Sequência de números Atividade 3\bin\Debug\net7.0\Sequência de números Atividade 3.runtimeconfig.json
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Sequência de números Atividade 3\bin\Debug\net7.0\Sequência de números Atividade 3.dll
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Sequência de números Atividade 3\bin\Debug\net7.0\Sequência de números Atividade 3.pdb
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Sequência de números Atividade 3\obj\Debug\net7.0\Sequência de números Atividade 3.dll
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Sequência de números Atividade 3\obj\Debug\net7.0\refint\Sequência de números Atividade 3.dll
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Sequência de números Atividade 3\obj\Debug\net7.0\Sequência de números Atividade 3.pdb
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Sequência de números Atividade 3\obj\Debug\net7.0\Sequência de números Atividade 3.genruntimeconfig.cache
+D:\Fatec\Desenvolvimento de Sistemas\Atividades\Sequência de números Atividade 3\obj\Debug\net7.0\ref\Sequência de números Atividade 3.dll
